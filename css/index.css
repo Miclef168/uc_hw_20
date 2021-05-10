@@ -1,0 +1,48 @@
+.navbar {
+    background-color: white;
+}
+.gourpetHero {
+    background-image: url("../images/gourpethero.png");
+    background-size: cover;
+    min-height: 700px;
+}
+.researchImg {
+    background-image: url("../images/gourpetbackgroundgradient.png") !important;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px 0 25px 0;
+}
+.userPersona img {
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.firstImg img {
+    max-width: 50%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.secondImg img {
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wireframeImg img {
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
